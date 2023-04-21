@@ -1,2 +1,3 @@
 /wandb
 /distilbert-base-uncased-finetuned-emotion
+/__pycache__
